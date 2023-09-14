@@ -1,0 +1,76 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.tutto {
+    width: 1050px;
+    margin: auto;
+    margin-top: 3%;
+    background-color: rgba(0, 0, 0, 0.425);
+    padding: 50px 70px 80px;
+    border-radius: 15px;
+}
+
+#immagine {
+    width: 240px;
+    height: 110px;
+}
+
+.titolo {
+    color: rgb(20, 236, 0);
+}
+
+.input {
+    background-color: rgb(20, 236, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+}
+
+.sezioni {
+    margin-top: 30px;
+    line-height: 7px;
+}
+
+.monopattini {
+    color: white;
+    font-size: 28px;
+}
+
+.via {
+    font-size: 15px;
+    color: rgb(226, 223, 223);
+}
+
+.carica1 {
+    background-color: rgb(253, 186, 62);
+    width: 370px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.carica2 {
+    background-color: rgb(19, 224, 0);
+    width: 650px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.carica3 {
+    background-color: rgb(255, 82, 82);
+    width: 170px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+button, input:hover{
+    cursor: pointer;
+}
+
+ 
